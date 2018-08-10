@@ -4,3 +4,6 @@ h1{
   font-weight: bold;
   color: red;
 }
+p{
+  font-family: monospace;
+}
